@@ -1,5 +1,5 @@
 
-
+//
 public class TipCalculator {
 
     int numPeople;
